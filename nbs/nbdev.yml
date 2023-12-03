@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-lienar-regression-tutorial"
+  site-url: "https://SpuriusSergius.github.io/nbdev-lienar-regression-tutorial"
+  description: "following tutorial for CSCI 435"
+  repo-branch: main
+  repo-url: "https://github.com/SpuriusSergius/nbdev-lienar-regression-tutorial"
